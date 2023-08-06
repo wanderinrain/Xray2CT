@@ -1,10 +1,13 @@
 # CT Reconstruction from Few Planar X-rays with Application towards Low-resource Radiotherapy
 [\[Project\]](https://www.google.com/)[\[Paper\]](https://www.google.com/)
 
+Yiran Sun, Tucker Netherton, Laurence E. Court, Guha Balakrishnan, Ashok Veeraraghavan.
+
+
 ## Introduction
 -----
 
-This is the official code release of the 2023 paper "CT reconstruction from few planar X-rays with application towards low-resource radiotherapy" by Yiran Sun, Tucker Netherton, Laurence E. Court, Guha Balakrishnan, Ashok Veeraraghavan.
+This is the official code release of the 2023 paper "CT reconstruction from few planar X-rays with application towards low-resource radiotherapy".
 
 Abstract: CT scans are the standard-of-care for many clinical ailments, and are needed for treatments like external beam radiotherapy. Unfortunately, CT scanners are rare in low and mid-resource settings due to their costs. Planar X-ray radiography units, in comparison, are far more prevalent, but can only provide limited 2D observations of the 3D anatomy. In this work, we propose a method to generate CT volumes from few (<5) planar X-ray observations using a prior data distribution, and perform the first evaluation of such a reconstruction algorithm for a clinical application: radiotherapy planning. We propose a deep generative model, building on advances in neural implicit representations to synthesize volumetric CT scans from few input planar X-ray images at different angles. To focus the generation task on clinically-relevant features, our model can also leverage anatomical guidance during training (via segmentation masks). We generated 2-field opposed, palliative radiotherapy plans on thoracic CTs reconstructed by our method, and found that isocenter radiation dose on reconstructed scans have <1% error with respect to the dose calculated on clinically acquired CTs using <4 X-ray views. In addition, our method is better than recent sparse CT reconstruction baselines in terms of standard pixel and structure-level metrics (PSNR, SSIM, Dice score) on the public LIDC lung CT dataset.
 
