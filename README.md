@@ -1,5 +1,5 @@
 # CT Reconstruction from Few Planar X-rays with Application towards Low-resource Radiotherapy
-[\[Project\]](https://www.google.com/)[\[Paper\]](https://www.google.com/)
+[\[Project\]](https://www.google.com/)  [\[Paper\]](https://www.google.com/)
 
 Yiran Sun, Tucker Netherton, Laurence E. Court, Guha Balakrishnan, Ashok Veeraraghavan.
 
