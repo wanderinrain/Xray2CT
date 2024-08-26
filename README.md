@@ -5,4 +5,4 @@ Yiran Sun, Tucker Netherton, Laurence E. Court, Ashok Veeraraghavan, Guha Balakr
 
 Rice University, MD Anderson Cancer Center
 
-# This code repository has removed to the new link: https://github.com/LexieSunn/INRR3CT
+# This code repository has removed to the new link: https://github.com/yransun/INRR3CT
