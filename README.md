@@ -1,4 +1,4 @@
-# INRR3CT: CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy
+# CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy
 
 [Project Website](https://yransun.github.io/INRR3CT/)
 
