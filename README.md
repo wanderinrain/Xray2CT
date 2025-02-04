@@ -4,7 +4,7 @@
 
 This is the official pytorch implementation of the deep leraning model INRR3CT for 3D CT reconstruction from few planar X-rays. The [paper](https://link.springer.com/chapter/10.1007/978-3-031-53767-7_22) is originally published on MICCAI 2023 Deep Generative Models Workshop (DGM4MICCAI 2023). The arxiv version of the paper is available [here](https://arxiv.org/abs/2308.02100).
 
-Note: The previous code repository of INRR3CT is here: https://github.com/wanderinrain/Xray2CT.
+You can also check our latest repository here: https://github.com/yransun/INRR3CT
 
 
 ## Code release
